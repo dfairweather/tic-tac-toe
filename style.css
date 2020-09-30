@@ -4,7 +4,7 @@ body {
     color: darkblue;
 }
 .animate{
-    animation: disco 885ms infinite step-end;
+    animation: disco 895ms infinite step-end;
 }
 
 .container {
